@@ -70,6 +70,9 @@
         <surefire.version>2.22.0</surefire.version>
         <kotlin.version>1.4.21</kotlin.version>
         <assertj-core.version>3.16.1</assertj-core.version>
+        <sonar.projectKey>AISS-2021-L9-G05_rest-assured</sonar.projectKey>
+        <sonar.organization>aiss-2021-l9-g05</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
     <scm>
         <url>http://github.com/rest-assured/rest-assured/tree/${scm.branch}</url>
